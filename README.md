@@ -297,7 +297,9 @@ Emoji:
 Markup : Code appears between colons :EMOJICODE:
 
 # Blockquote `>`
-
+```md
+> Blockquote
+```
 > Blockquote
 
 ```md
