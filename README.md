@@ -195,7 +195,7 @@ Content Cell  | Content \|
 ```md
 ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
 ```
-![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+![picture alt](http:via.placeholder.com/200x150 "Title is optional")
 
 # Foldable Text `<details>` & `<summary>`
 
